@@ -1,6 +1,6 @@
 {
   "name": "iranian-sans-fontface",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": [
     "css/iranian-sans.css",
     "fonts/IranianSansBold.ttf",
