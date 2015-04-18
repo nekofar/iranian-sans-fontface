@@ -1,7 +1,7 @@
 /* BEGIN Regular */
 @font-face {
 	font-family: 'Iranian Sans';
-	src: url('./fonts/Regular/IranianSans-Regular.ttf') format('truetype');
+	src: url('../fonts/Regular/IranianSans-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -9,7 +9,7 @@
 /* BEGIN Bold */
 @font-face {
 	font-family: 'Iranian Sans Bold';
-	src: url('./fonts/Bold/IranianSans-Bold.ttf') format('truetype');
+	src: url('../fonts/Bold/IranianSans-Bold.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
