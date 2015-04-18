@@ -1,7 +1,8 @@
 {
   "name": "iranian-sans-fontface",
+  "version": "1.0.1",
   "main": [
-    "./iranian-sans.css",
+    "./css/iranian-sans.css",
     "./fonts/**/*"
   ],
   "homepage": "https://github.com/nekofar/iranian-sans-fontface",
