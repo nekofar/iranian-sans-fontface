@@ -1,10 +1,10 @@
 {
   "name": "iranian-sans-fontface",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": [
     "css/iranian-sans.css",
-    "fonts/Bold/IranianSans-Bold.ttf",
-    "fonts/Regular/IranianSans-Regular.ttf"
+    "fonts/IranianSansBold.ttf",
+    "fonts/IranianSansRegular.ttf"
   ],
   "homepage": "https://github.com/nekofar/iranian-sans-fontface",
   "authors": [
