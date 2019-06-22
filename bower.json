@@ -12,7 +12,9 @@
   ],
   "description": "The Iranian Sans fontface",
   "keywords": [
-    "font", "sans", "iran"
+    "font",
+    "sans",
+    "iran"
   ],
   "license": "Apache License version 2.0",
   "ignore": [
