@@ -1,0 +1,13 @@
+{
+  "name": "iranian-sans-fontface",
+  "version": "1.0.6",
+  "description": "The Iranian Sans fontface",
+  "repository": "git@github.com:nekofar/iranian-sans-fontface.git",
+  "author": "Milad Nekofar <milad@nekofar.com>",
+  "license": "Apache License version 2.0",
+  "keywords": [
+    "font",
+    "sans",
+    "iran"
+  ]
+}
